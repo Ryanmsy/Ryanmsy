@@ -1,7 +1,7 @@
 ## Hi! I am Ryan! 
 
 
-I'm documenting my journey transitioning from finance into Data Science / Data Engineering. Currently, I am pursuing my Master in Business Analytics while working full-time at Tyson Foods.
+I'm documenting my journey transitioning from finance into Data Science / Data Engineering. Currently, I am pursuing my Master in Business Analytics while working at Tyson Foods and as a Grad Assistant.
 
 
 Despite the busy schedule, I dedicate some time per week to dive into whatever new concepts catch my ear, especially when I hear my team at Tyson or other industry professionals talking about interesting trends.
