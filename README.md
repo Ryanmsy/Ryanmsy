@@ -1,13 +1,10 @@
-## Hi! I am Ryan! 
+## Hi! I am Ryan! 👋
 
+**Data Scientist & Engineer | Continuous Learner**
 
-I'm documenting my journey transitioning from finance into Data Science / Data Engineering. Currently, I am pursuing my Master in Business Analytics while working at Tyson Foods and as a Grad Assistant.
+Transitioning from corporate finance and inventory strategy into building scalable data pipelines and ML models. I use this GitHub as a transparent accountability log to track my hands-on technical growth.
 
-
-Despite the busy schedule, I dedicate some time per week to dive into whatever new concepts catch my ear, especially when I hear my team at Tyson or other industry professionals talking about interesting trends.
-
-
-Whether I’m tackling Data Structures and Algorithms (DSA), experimenting with containers, or trying out new AI tools, I love getting hands-on. Consider this profile my accountability log and a transparent record of my professional growth!
-
-
-Note: Github will update periodically as I continue to learn best practices.
+### Currently Balancing:
+-  **Academics:** M.S. in Applied Business Analytics & Graduate Assistantship
+-  **Industry:** Export Rail Analytics at Tyson Foods
+-  **Upskilling:** Dedicating weekly hours to master DSA, cloud infrastructure, and AI tools
