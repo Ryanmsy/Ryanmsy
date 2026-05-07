@@ -1,6 +1,6 @@
 ## Hi! I am Ryan! 👋
 
-** Aspiring Data Scientist & Engineer**
+**Aspiring Data Scientist & Engineer**
 
 Transitioning from finance into building scalable data pipelines and ML models. I use this GitHub as a transparent accountability log to track my hands-on technical growth.
 
